@@ -60,7 +60,6 @@ Indywidualiści:
 1. Gafka, Dariusz.
 1. Gąsior, Łukasz.
 1. Józwiak, Roman.
-1. Kadłubowski, Paweł.
 1. Kąkol, Jan.
 1. Komorowski, Szymon.
 1. Korszuń, Kacper.
