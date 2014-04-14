@@ -46,6 +46,7 @@ Zespoły:
 1. [Noramino…](https://github.com/Bllade/ASI_exam.git)
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns)
 1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject)
+1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo)
 
 Indywidualiści:
 
