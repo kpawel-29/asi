@@ -32,12 +32,12 @@ Jak to zrobić jest opisane [tutaj](https://github.com/rails4/my_gists).
 
 ### Niezaliczone laboratorium
 
-1. Chraniuk, Mateusz
-1. Mańkowska, Monika
-1. Sielachowicz, Paweł
-1. Stasiak, Sebastian
-1. Sulich, Bartłomiej
-1. Żelazek, Mateusz
+1. Chraniuk, Mateusz (i)
+1. Mańkowska, Monika (?)
+1. Sielachowicz, Paweł (?)
+1. Stasiak, Sebastian (i)
+1. Sulich, Bartłomiej (i)
+1. Żelazek, Mateusz (?)
 
 
 ### Egzamin poprawkowy (wrzesień)
