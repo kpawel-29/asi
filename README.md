@@ -59,27 +59,15 @@ Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 1. Szynkaruk, Kamil
 1. Zbierowski, Maciej
 
-----
-
-1. Smykowski, Adrian
-
-
 <!--
 
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com) **brak na liście z dziekanatu**
-1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/)
-1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
-
-1. [Hawks 2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/): Sz. Komorowski, P. Acewicz
-   - brak testów!
-   - nie wiadomo o co chodzi w aplikacji
-   - po zalogowaniu brak przykładowych danych (playlist…)
 
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin). [brak repo]
-1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). [My Movies](http://mymovies-pk.herokuapp.com/) [Travis: failed]
-
-1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [myGists](http://mygists.kubavic.vdl.pl) [1 model, Gemfile: rspec2, Travis: DEPRECATION WARNINGS]
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://pigist.shellyapp.com/) [1 model: +lang?, Gemfile: rspec2, Travis: 7 testów]
+1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [myGists](http://mygists.kubavic.vdl.pl) [1 model, Gemfile: rspec2, Travis: DEPRECATION WARNINGS]
+1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/)
+1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 
 -->
 
