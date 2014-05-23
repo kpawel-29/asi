@@ -55,9 +55,7 @@ Aplikacje na egzamin powinny korzystać z innych API.
 
 Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 
-1. Acewicz, Patryk
 1. Bigda, Piotr
-1. Komorowski, Szymon
 1. Korszuń, Kacper
 1. Nowicki, Jakub
 1. Szynkaruk, Kamil
@@ -89,8 +87,9 @@ Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 
 ### Teams 4.1.1 (*deadline* – 18.05.2014)
 
-Kod aplikacji należy podłączyć do systemu [Travis](https://travis-ci.org/) –
+Kod aplikacji należy podłączyć do systemu [Travis](https://travis-ci.com/plans) –
 free hosted continuous integration platform for the open source community.
+Oczywiście, wybieramy **free plan**.
 
 **Proszę o dodanie mnie jako *collaborator* do repozytorium z projektem.**
 
@@ -111,6 +110,7 @@ free hosted continuous integration platform for the open source community.
 1. [MirJan](https://github.com/Pelen/mirjan). [My Books](http://mirjan.shellyapp.com) [1 model]
 1. [Splendor, Styl, Przepych](https://github.com/lukasz978/splendor). [Splendor](http://vps66305.ovh.net) [Travis: WARNINGS]
 1. [None](https://github.com/kaka2991/my_gists). [My Gists](http://my-gists.shellyapp.com/) [1 model, Gemfile: rspec2]
+1. [Hawks 2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/)
 
 ----
 
