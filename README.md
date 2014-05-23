@@ -111,6 +111,7 @@ Oczywiście, wybieramy **free plan**.
 1. [Splendor, Styl, Przepych](https://github.com/lukasz978/splendor). [Splendor](http://vps66305.ovh.net) [Travis: WARNINGS]
 1. [None](https://github.com/kaka2991/my_gists). [My Gists](http://my-gists.shellyapp.com/) [1 model, Gemfile: rspec2]
 1. [Hawks 2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/)
+1. [P&S – dziewczyny Rubiego](https://github.com/MPaulina/AplikacjaASI). [MyGist](http://dziewczynyrubiego.shellyapp.com/)
 
 ----
 
@@ -120,7 +121,6 @@ Dane wpisujemy tak:
 
 TODO:
 
-1. [P&S – dziewczyny Rubiego](https://github.com/MPaulina/AplikacjaASI). [MyGist](http://dziewczynyrubiego.shellyapp.com/)
 1. [JSON](https://github.com/gruchanet/snippeter_on_steroids).
 1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo).
 
