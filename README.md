@@ -55,7 +55,6 @@ Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 
 1. Bigda, Piotr
 1. Korszuń, Kacper
-1. Nowicki, Jakub
 1. Szynkaruk, Kamil
 1. Zbierowski, Maciej
 
@@ -65,7 +64,6 @@ Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin). [brak repo]
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://pigist.shellyapp.com/) [1 model: +lang?, Gemfile: rspec2, Travis: 7 testów]
-1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [myGists](http://mygists.kubavic.vdl.pl) [1 model, Gemfile: rspec2, Travis: DEPRECATION WARNINGS]
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/)
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 
@@ -119,6 +117,7 @@ TODO:
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy). [Agisty](http://agisty.shellyapp.com)
 1. [Lek, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com) [1 model, Gemfile: rspec2, Travis: 30 testów]
 1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam). [#music #power #fun](http://musicalbums.shellyapp.com) [Gemfile: rspec2]
+1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [myGists](http://mygists.kubavic.vdl.pl) [1 model, Gemfile: rspec2]
 
 <!--
 
